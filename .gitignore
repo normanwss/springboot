@@ -1,1 +1,7 @@
+*.MF
 /target/
+target*
+target/
+.classpath
+.project
+.settings
